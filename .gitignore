@@ -1,0 +1,10 @@
+# folders to be ignored
+__pycache__
+out*
+# file extensions to be ignored
+*.pdf
+*.png
+
+# specific files to be ignored
+test.ipynb
+test.py
